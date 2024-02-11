@@ -6,8 +6,16 @@ Create and Play Unlimited Quizzes for Free! 🔥 Built with Kotlin and Jetpack C
 | onBoarding start | onBoarding finished | Login |
 |:----------------------------------------:|:-----------------------------------------:|:-----------------------------------------:|
 | ![](https://github.com/Sagarbisht509/Quizz/blob/main/screenshots/onBoarding1.jpg) | ![](https://github.com/Sagarbisht509/Quizz/blob/main/screenshots/onBoarding_finish.jpg) | ![](https://github.com/Sagarbisht509/Quizz/blob/main/screenshots/login.jpg) |
-| Register | Avatar |
-| ![](https://github.com/Sagarbisht509/Quizz/blob/main/screenshots/register.jpg)  | ![](https://github.com/Sagarbisht509/Quizz/blob/main/screenshots/avatar.jpg) |
+| Register | Avatar | Home |
+| ![](https://github.com/Sagarbisht509/Quizz/blob/main/screenshots/register.jpg)  | ![](https://github.com/Sagarbisht509/Quizz/blob/main/screenshots/avatar.jpg) | ![](https://github.com/Sagarbisht509/Quizz/blob/main/screenshots/home.jpg) |
+| Create Quiz | Adding Question | Join Quiz |
+| ![](https://github.com/Sagarbisht509/Quizz/blob/main/screenshots/quiz.jpg)  | ![](https://github.com/Sagarbisht509/Quizz/blob/main/screenshots/adding_question.jpg) | ![](https://github.com/Sagarbisht509/Quizz/blob/main/screenshots/quiz_code.jpg) |
+| Quiz Detail | Play Quiz Wrong | Play Quiz Correct |
+| ![](https://github.com/Sagarbisht509/Quizz/blob/main/screenshots/quiz_details.jpg)  | ![](https://github.com/Sagarbisht509/Quizz/blob/main/screenshots/play_quiz_wrong.jpg) | ![]([https://github.com/Sagarbisht509/Quizz/blob/main/screenshots/home.jpg](https://github.com/Sagarbisht509/Quizz/blob/main/screenshots/play_quiz_correct.jpg)) |
+| Result | Search | Favourites |
+| ![](https://github.com/Sagarbisht509/Quizz/blob/main/screenshots/result.jpg)  | ![](https://github.com/Sagarbisht509/Quizz/blob/main/screenshots/search.jpg) | ![](https://github.com/Sagarbisht509/Quizz/blob/main/screenshots/favourites.jpg) |
+| Profile | 
+| ![](https://github.com/Sagarbisht509/Quizz/blob/main/screenshots/profile.jpg)  |
 
 
 ## Built With 🛠
