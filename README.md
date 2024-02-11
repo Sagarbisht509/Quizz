@@ -57,3 +57,17 @@ Create and Play Unlimited Quizzes for Free! 🔥 Built with Kotlin and Jetpack C
 This app uses [***MVVM (Model View View-Model)***](https://developer.android.com/jetpack/docs/guide#recommended-app-arch) architecture.
 
 ![](https://developer.android.com/topic/libraries/architecture/images/final-architecture.png)
+
+
+
+## Upcoming features
+   * OTP Verification
+   * Update Profile
+   * Change Password
+   * Share Result
+  
+## Questions?🤔
+ 
+   Hit me on 
+ 
+   <a href="https://www.linkedin.com/in/sagar-bisht-4094151b6/"><img src="https://user-images.githubusercontent.com/35039342/55471530-94b34280-5627-11e9-8c0e-6fe86a8406d6.png" width="60"></a>
