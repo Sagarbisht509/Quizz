@@ -1,5 +1,5 @@
 # Quizz
-Create and Play Unlimited Quizzes for Free! 🔥 Built with Kotlin and Jetpack Composes.
+Create and Play Unlimited Quizzes for Free! 🔥 Built with Kotlin and Jetpack Compose.
 
 ## 📸 Screenshots
 
