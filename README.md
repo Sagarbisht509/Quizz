@@ -11,7 +11,7 @@ Create and Play Unlimited Quizzes for Free! 🔥 Built with Kotlin and Jetpack C
 | Create Quiz | Adding Question | Join Quiz |
 | ![](https://github.com/Sagarbisht509/Quizz/blob/main/screenshots/quiz.jpg)  | ![](https://github.com/Sagarbisht509/Quizz/blob/main/screenshots/adding_question.jpg) | ![](https://github.com/Sagarbisht509/Quizz/blob/main/screenshots/quiz_code.jpg) |
 | Quiz Detail | Play Quiz Wrong | Play Quiz Correct |
-| ![](https://github.com/Sagarbisht509/Quizz/blob/main/screenshots/quiz_details.jpg)  | ![](https://github.com/Sagarbisht509/Quizz/blob/main/screenshots/play_quiz_wrong.jpg) | ![]([https://github.com/Sagarbisht509/Quizz/blob/main/screenshots/home.jpg](https://github.com/Sagarbisht509/Quizz/blob/main/screenshots/play_quiz_correct.jpg)) |
+| ![](https://github.com/Sagarbisht509/Quizz/blob/main/screenshots/quiz_details.jpg)  | ![](https://github.com/Sagarbisht509/Quizz/blob/main/screenshots/play_quiz_wrong.jpg) | ![](https://github.com/Sagarbisht509/Quizz/blob/main/screenshots/play_quiz_correct.jpg) |
 | Result | Search | Favourites |
 | ![](https://github.com/Sagarbisht509/Quizz/blob/main/screenshots/result.jpg)  | ![](https://github.com/Sagarbisht509/Quizz/blob/main/screenshots/search.jpg) | ![](https://github.com/Sagarbisht509/Quizz/blob/main/screenshots/favourites.jpg) |
 | Profile | 
